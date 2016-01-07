@@ -1,0 +1,12 @@
+/config.properties
+/ehcache.xml
+/hibernate.cfg.xml
+/hibernate.reveng.xml
+/log4j.properties
+/oa/
+/spring-druid.xml
+/spring-ehcache.xml
+/spring-hibernate.xml
+/spring-mvc.xml
+/spring-tasks.xml
+/spring.xml
